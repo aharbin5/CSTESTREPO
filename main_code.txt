@@ -1,0 +1,8 @@
+There's data in this file.  It has lines.
+Multiple of them.
+
+
+
+Empty lines.
+Full Lines.
+A distinct quantity of information.
