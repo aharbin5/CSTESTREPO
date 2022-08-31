@@ -6,3 +6,13 @@ Multiple of them.
 Empty lines.
 Full Lines.
 A distinct quantity of information.
+
+
+
+
+
+
+
+More empty lines.
+We need them all.
+Makes code look prettier.
